@@ -1,3 +1,14 @@
+# Projeto de aprendizado
+
+Baseado em [ Chatbot from scratch with Next, AI SDK, OpenAI, and Shadcn/UI ](https://www.youtube.com/watch?v=CPRx_WVkJ8g).
+
+Usando: 
+- Next.js
+- OpenAI API
+- [shadcn/ui](https://github.com/shadcn-ui/ui)
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
